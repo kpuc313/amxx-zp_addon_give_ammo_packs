@@ -1,4 +1,4 @@
-<h1 align="center">[ZP] Addon: Give Ammo Packs</h1>
+<h1 align="center">[ZP] Addon: Give Ammo Packs v1.0</h1>
 
 <br />
 
